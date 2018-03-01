@@ -1,0 +1,10 @@
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\bin\Debug\Archivos_Texto_Binario.exe.config
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\bin\Debug\Archivos_Texto_Binario.exe
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\bin\Debug\Archivos_Texto_Binario.pdb
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.csprojResolveAssemblyReference.cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.Form1.resources
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.Properties.Resources.resources
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.csproj.GenerateResource.Cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.csproj.CoreCompileInputs.cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.exe
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Archivos_Texto_Binario\Archivos_Texto_Binario\obj\Debug\Archivos_Texto_Binario.pdb
